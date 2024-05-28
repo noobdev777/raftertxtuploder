@@ -20,7 +20,7 @@
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏",
             "required": true
         },
-        "ENTER HEROKU APP NAME": {
+        "HEROKU_APP": {
             "description": "ENTER YOUR HEROKU APP NAME",
             "required": true
         },
